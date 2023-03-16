@@ -3,3 +3,4 @@ hi
 git clone
 git bash
 git init
+panner
